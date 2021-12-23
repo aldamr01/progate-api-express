@@ -1,0 +1,18 @@
+{
+  "name": "progatejs",
+  "version": "1.0.0",
+  "description": "proyek percobaan express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server"
+  },
+  "author": "aldion",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
